@@ -8,5 +8,5 @@ two bootstrap project with awesome design :) apply
 - > component
 - > slider 
 ## demo 
-[Angora](https://ftohtarek.github.io/bootstrap/ANGORA)
-[workShop](https://ftohtarek.github.io/bootstrap/workshop)
+- [Angora](https://ftohtarek.github.io/bootstrap/ANGORA)
+- [workShop](https://ftohtarek.github.io/bootstrap/workshop)
